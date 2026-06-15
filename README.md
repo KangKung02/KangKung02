@@ -10,9 +10,20 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align=left><a href=https://www.lua.org/ rel=noreferrer target=_blank><img alt=lua height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg width=40> </a><a href=https://www.cprogramming.com/ rel=noreferrer target=_blank><img alt=c height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg width=40> </a><a href=https://www.linux.org/ rel=noreferrer target=_blank><img alt=linux height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg width=40> </a><a href=https://nodejs.org rel=noreferrer target=_blank><img alt=nodejs height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg width=40> </a><a href=https://www.python.org rel=noreferrer target=_blank><img alt=python height=40 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg width=40></a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangkung02&show_icons=true&locale=en&layout=compact" alt="kangkung02" /></p>
+<p align="left">
+  <a href="https://www.lua.org/" rel="noreferrer" target="_blank"><img alt="lua" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40"> </a>
+  <a href="https://www.cprogramming.com/" rel="noreferrer" target="_blank"><img alt="c" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"> </a>
+  <a href="https://www.linux.org/" rel="noreferrer" target="_blank"><img alt="linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"> </a>
+  <a href="https://nodejs.org" rel="noreferrer" target="_blank"><img alt="nodejs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> </a>
+  <a href="https://www.python.org" rel="noreferrer" target="_blank"><img alt="python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kangkung02&show_icons=true&locale=en" alt="kangkung02" /></p>
+<!-- จัดกลุ่ม GitHub Stats ให้อยู่กึ่งกลางร่วมกันอย่างเป็นระเบียบ -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kangkung02&show_icons=true&locale=en&layout=compact" alt="kangkung02" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kangkung02&show_icons=true&locale=en" alt="kangkung02" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangkung02&" alt="kangkung02" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kangkung02&" alt="kangkung02" />
+</p>
